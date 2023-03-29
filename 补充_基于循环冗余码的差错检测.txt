@@ -1,0 +1,24 @@
+CRC校验（循环冗余校验）是数据通讯中最常采用的校验方式
+请采用VC++，编写代码，实现基于循环冗余码的差错检测。
+
+具体步骤：
+?1）输入待传输的二进制串；
+
+2）输入被除数：二进制串；
+
+3）计算，输出余数；
+
+4）输出发送的数据；
+
+sample1:
+Please enter the Binary strings:  101001
+Please enter the divisor:  1101
+The remainder is: 001
+The result is:    110101001 
+sample2:
+Please enter the Binary strings:  1110001
+Please enter the divisor:  1101
+The remainder is: 010
+The result is:    1010010010
+
+
